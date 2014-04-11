@@ -15,5 +15,7 @@ public class HelloWorld {
      */
     public static void main(String[] args) {
         System.out.println("hwllo,world");
+        System.out.printf("こんにちは！GitWorld！¥n");
+        
     }
 }
